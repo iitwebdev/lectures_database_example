@@ -1,0 +1,3 @@
+[submodule "zzzeek_lectures/pycon2013_student_package"]
+	path = zzzeek_lectures/pycon2013_student_package
+	url = https://uralbash@bitbucket.org/zzzeek/pycon2013_student_package.git
